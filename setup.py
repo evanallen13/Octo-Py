@@ -7,10 +7,10 @@ setup(
     name="octopy",
     version="0.1.0",
     author="evanallen13",
-    description="A Python library for managing GitHub,
+    description="A Python library for managing GitHub Copilot, Rulesets, and Custom Properties",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/octopy",
+    url="https://github.com/evanallen13/octopy",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
