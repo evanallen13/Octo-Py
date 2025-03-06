@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name="octopy",
+    name="Evan-Octo-Py",
     version="0.1.0",
     author="evanallen13",
     description="A Python library for managing GitHub Copilot, Rulesets, and Custom Properties",
